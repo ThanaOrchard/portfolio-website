@@ -1,3 +1,11 @@
+.project-image {
+    padding-left: 30px;
+    width: 33%;
+}
+
+.project-description {
+}
+
 body {
     background-color: rgb(233, 222, 244);
 
@@ -5,6 +13,13 @@ body {
     border-style: dotted;
     border-width: 6px;
     border-color: thistle;
+}
+
+div {
+    margin-top: 24px;
+    border-top-style: dotted;
+    border-width: 6px;
+    border-color: rgb(233, 211, 233);
 }
 
 h1 {
@@ -18,7 +33,6 @@ h2 {
 }
 
 h3 {
-    color: rgb(166, 111, 166);
     color: rgb(99, 122, 111);
     font-size: 22px;
 
