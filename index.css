@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(233, 222, 244);
+
+    padding: 4px 24px 12px 24px;
+    border-style: dotted;
+    border-width: 6px;
+    border-color: thistle;
+}
+
+h1 {
+    color: rgb(66, 44, 88);
+    font-size: 48px;
+}
+
+h2 {
+    color: rgb(111, 77, 133);
+    font-size: 28px;
+}
+
+h3 {
+    color: rgb(166, 111, 166);
+    color: rgb(99, 122, 111);
+    font-size: 22px;
+
+    padding-left: 18px;
+}
+
+p {
+    color: rgb(33, 22, 44);
+    padding-left: 30px;
+}
+
+
