@@ -1,47 +1,65 @@
+#contact {
+    margin-top: 12px;
+}
+
+.bordered {
+    border-color: rgb(233, 211, 233);
+    margin-top: 12px;
+    padding: 24px 0 12px 0;
+    border-top-style: dotted;
+    border-width: 6px;
+}
+
 .project-image {
-    padding-left: 30px;
-    width: 33%;
+   padding-bottom: 12px;
 }
 
 .project-description {
 }
 
+.list-div {
+    padding-left: 36px;
+}
+
+.override {
+    color: red;
+}
+
+.override {
+    color: blue;
+}
+
 body {
     background-color: rgb(233, 222, 244);
-
-    padding: 4px 24px 12px 24px;
+    margin: 6px;
+    padding: 12px 8px 12px 8px;
     border-style: dotted;
     border-width: 6px;
     border-color: thistle;
 }
 
-div {
-    margin-top: 24px;
-    border-top-style: dotted;
-    border-width: 6px;
-    border-color: rgb(233, 211, 233);
-}
-
 h1 {
     color: rgb(66, 44, 88);
-    font-size: 48px;
+    font-size: 54px;
+    margin-top: 6px;
 }
 
 h2 {
     color: rgb(111, 77, 133);
-    font-size: 28px;
+    font-size: 42px;
 }
 
 h3 {
     color: rgb(99, 122, 111);
-    font-size: 22px;
-
-    padding-left: 18px;
+    font-size: 32px;
 }
 
 p {
     color: rgb(33, 22, 44);
-    padding-left: 30px;
+    font-size: 22px;
+    padding-left: 18px;
 }
 
-
+li {
+    font-size: 22px;
+}
