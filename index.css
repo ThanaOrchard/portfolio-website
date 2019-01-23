@@ -2,12 +2,23 @@
     margin-top: 12px;
 }
 
+#projects {
+
+}
+
+#proficiencies {
+    
+}
+
 .bordered {
     border-color: rgb(233, 211, 233);
     margin-top: 12px;
     padding: 24px 0 12px 0;
     border-top-style: dotted;
     border-width: 6px;
+}
+
+.headshot {
 }
 
 .project-image {
@@ -27,6 +38,10 @@
 
 .override {
     color: blue;
+}
+
+.hide {
+    display: none;
 }
 
 body {
@@ -62,4 +77,19 @@ p {
 
 li {
     font-size: 22px;
+}
+
+@media (max-width: 575px) {
+    .headshot {
+    }
+}
+
+@media (min-width: 576px) {
+    .headshot {
+    }
+}
+
+@media (min-width: 768px) {
+    .headshot {
+    }
 }
