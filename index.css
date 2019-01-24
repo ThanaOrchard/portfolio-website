@@ -32,13 +32,6 @@
     padding-left: 36px;
 }
 
-.override {
-    color: red;
-}
-
-.override {
-    color: blue;
-}
 
 .hide {
     display: none;
@@ -93,3 +86,5 @@ li {
     .headshot {
     }
 }
+
+/* adding transition to push page content below fixed navbar*/
