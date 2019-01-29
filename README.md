@@ -1,3 +1,5 @@
 # portfolio-website
+
 example portfolio project for Techtonica
-you should probably work on this soon lol
+
+link to live portfolio page: https://thanaorchard.github.io/portfolio-website/
